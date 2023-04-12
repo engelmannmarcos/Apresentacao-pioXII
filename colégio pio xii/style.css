@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    vertical-align: top;
+    height: 60px;  
+}
+html,body{
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: right bottom;
+}
+
+img {
+    width: 23%;
+    border-style:outset;
+    border-color:rgb(0, 0, 0);
+    
+}
+.menu {
+    text-align: left;
+    
+}
+.patio{
+    width: 20%;
+}
